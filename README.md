@@ -14,6 +14,7 @@ origin main may require\
 
 git branch = to know all branches and in which you currently are in\
 git checkout -b branch_name = to go to that branch irrespective of weather it is created before or not\
-git diff branch_name= show the changes between main branch and side branch\
+git diff branch_name= show the changes from the current branch to the asked branch\
 git pull\
-git branch -d branch_name = to delete that branch
+git branch -d branch_name = to delete that branch\
+git merge main= merge current one with the main one
