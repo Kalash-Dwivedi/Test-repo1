@@ -13,4 +13,7 @@ origin main may require\
 -u can avoid it
 
 git branch = to know all branches and in which you currently are in\
-git checkout -b branch_name = to go to that branch irrespective of weather it is created before or not
+git checkout -b branch_name = to go to that branch irrespective of weather it is created before or not\
+git diff branch_name= show the changes between main branch and side branch\
+git pull\
+git branch -d branch_name = to delete that branch
