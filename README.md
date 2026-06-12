@@ -11,3 +11,6 @@ git commit -m "what's next" -m "description"
 git push\
 origin main may require\
 -u can avoid it
+
+git branch = to know all branches and in which you currently are in\
+git checkout -b branch_name = to go to that branch irrespective of weather it is created before or not
