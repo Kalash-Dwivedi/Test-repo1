@@ -20,5 +20,6 @@ git branch -d branch_name = to delete that branch
 
 **merge test**\
 A\
-X\
-C
+B\
+C\
+D
